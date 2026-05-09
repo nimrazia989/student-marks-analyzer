@@ -1,6 +1,6 @@
-====================================================
+
         STUDENT PERFORMANCE ANALYZER
-====================================================
+
 
 A simple Python + Streamlit web application that
 analyzes student academic performance based on
